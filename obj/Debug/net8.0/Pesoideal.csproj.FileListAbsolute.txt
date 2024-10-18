@@ -1,0 +1,14 @@
+C:\Users\user\Pesoideal\bin\Debug\net8.0\Pesoideal.exe
+C:\Users\user\Pesoideal\bin\Debug\net8.0\Pesoideal.deps.json
+C:\Users\user\Pesoideal\bin\Debug\net8.0\Pesoideal.runtimeconfig.json
+C:\Users\user\Pesoideal\bin\Debug\net8.0\Pesoideal.dll
+C:\Users\user\Pesoideal\bin\Debug\net8.0\Pesoideal.pdb
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.AssemblyInfoInputs.cache
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.AssemblyInfo.cs
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.csproj.CoreCompileInputs.cache
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.dll
+C:\Users\user\Pesoideal\obj\Debug\net8.0\refint\Pesoideal.dll
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.pdb
+C:\Users\user\Pesoideal\obj\Debug\net8.0\Pesoideal.genruntimeconfig.cache
+C:\Users\user\Pesoideal\obj\Debug\net8.0\ref\Pesoideal.dll
